@@ -1,0 +1,25 @@
+echo "# group_github.io" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Freshnick71/group_github.io.git
+git push -u origin main
+
+Hello World!
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>About Me</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+# <h1> </h1> (Title)
+<img src = ""/> (image)
+
+
+<h2 p id =""> </h2> (Names)
+  </body>
+</html>
