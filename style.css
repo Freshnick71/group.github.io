@@ -1,0 +1,35 @@
+title{
+  color: greenyellow;
+  text-align: center;
+  font-size: 50px;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+body{
+    background: #FFFFFF
+  }
+  h2{
+    color:black;
+    font-size:25px;
+    text-align: center;
+  font-family: 'Merriweather', serif;
+  }
+  p{
+    color:#11450f;
+    font-size:23px;
+    font-family: 'Cormorant Garamond', serif;
+    }
+img{
+    width: 450px;
+    text-align: center;
+}
+
+#highlight{
+    color:aqua;
+    font-size: 25px;
+    text-align: center;
+    font-family:Arial, Helvetica, sans-serif
+}
+#func{
+  color: navajowhite;
+  text-align:right;
+}
