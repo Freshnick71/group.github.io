@@ -1,6 +1,12 @@
+div.wrapper {
+    padding-left: 500;
+    margin: 500;
+    padding-right: 500;
+}
 .AccountButton {
-    text-align:center;
-    color:pink;
+    margin: 200px;
+    text-align: right;
+    color: pink;
 }
 img {
     width:100px;
