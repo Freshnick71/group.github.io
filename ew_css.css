@@ -1,6 +1,7 @@
-AccountButton {
-    text-align:right;
+.AccountButton {
+    text-align:center;
+    color:pink;
 }
-a {
-    width:100;
+img {
+    width:100px;
 }
