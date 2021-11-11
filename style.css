@@ -1,11 +1,12 @@
-title{
+
+#title{
   color: greenyellow;
   text-align: center;
   font-size: 50px;
   font-family:Verdana, Geneva, Tahoma, sans-serif;
 }
 body{
-    background: #FFFFFF
+    background: bisque
   }
   h2{
     color:black;
@@ -18,18 +19,95 @@ body{
     font-size:23px;
     font-family: 'Cormorant Garamond', serif;
     }
-img{
-    width: 450px;
-    text-align: center;
+
+#page{
+  text-align: center;
+  color: black;
+  background-position: center;
+  position: absolute;
+  margin-left:575px;
+}
+#wrapper{
+display: grid;
+grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
+grid-template-rows: 100px 100px 100px 100px 100px;
+grid-gap: 150px
 }
 
+#Size{
+width: 500px;
+grid-column-start:3;
+grid-column-end:5;
+grid-row-start:1;
+grid-row-end:2;
+}
+img{
+  width: 455px;
+}
+#image{
+  margin-left: 375px
+}
 #highlight{
     color:aqua;
-    font-size: 25px;
+    font-size: 20px;
     text-align: center;
     font-family:Arial, Helvetica, sans-serif
 }
 #func{
   color: navajowhite;
   text-align:right;
+}
+#size{
+  margin-left: 380px;
+}
+.button{
+  width: 50px;
+  background-size: 50px;
+}
+#user{
+margin-left: 780px;
+margin-bottom: 10px;
+}
+#home{
+  margin-left: 475px;
+}
+.button:hover {
+  background: yellow;
+}
+#home{
+  background: white;
+}
+
+#OT{
+  font-size: 50px; 
+  color: whitesmoke;
+  text-align: center;
+  font-family: 'Lobster', cursive;
+}
+#intro{
+ font-size: 25px; 
+  color: whitesmoke;
+  background: transparent;
+  text-align: center;
+  font-family: 'Lobster', cursive;
+}
+
+#username{
+  padding-top: 7px;
+  padding-bottom: 10px;
+  padding-right: 70px;
+  margin-bottom: 10px;
+}
+#password{
+  padding-top: 7px;
+  padding-bottom: 10px;
+  padding-right: 70px;
+  margin-bottom: 10px;
+}
+
+.form-floating mb-3{
+    text-align: center
+  }
+.form-floating{
+  text-align: center
 }
