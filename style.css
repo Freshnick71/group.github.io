@@ -104,26 +104,17 @@ margin-bottom: 10px;
   padding-right: 70px;
   margin-bottom: 10px;
 }
-
 #corner{
   width: 75px;
-  margin-left: 400px;
 }
 #setting{
   margin-left: 500px;
   width: 400px;
 }
 
-
 .form-floating mb-3{
     text-align: center
   }
 .form-floating{
   text-align: center
-}
-#reward{
-  text-align: center;
-}
-#redeem{
-  text-align:right;
 }
