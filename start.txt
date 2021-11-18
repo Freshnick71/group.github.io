@@ -5,7 +5,7 @@ git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/Freshnick71/group_github.io.git
 git push -u origin main
-
+<pre id = "redeem">            Redeem                           My Rewards</pre>
 Hello World!
 <!DOCTYPE html>
 <html>
