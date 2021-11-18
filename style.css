@@ -105,6 +105,15 @@ margin-bottom: 10px;
   margin-bottom: 10px;
 }
 
+#corner{
+  width: 75px;
+}
+#setting{
+  margin-left: 500px;
+  width: 400px;
+}
+
+
 .form-floating mb-3{
     text-align: center
   }
