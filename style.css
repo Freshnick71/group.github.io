@@ -121,3 +121,9 @@ margin-bottom: 10px;
 .form-floating{
   text-align: center
 }
+#reward{
+  text-align: center;
+}
+#redeem{
+  text-align:right;
+}
