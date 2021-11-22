@@ -106,7 +106,7 @@ margin-bottom: 10px;
 }
 #corner{
   width: 75px;
-  margin-left: 450px;
+  margin-left: 400px;
 }
 #setting{
   margin-left: 500px;
@@ -120,6 +120,7 @@ margin-bottom: 10px;
   text-align: center
 }
 
-#Locate{
-size: 500px;
+#locate{
+margin-left: 380px;
+margin-top: 10px;
 }
