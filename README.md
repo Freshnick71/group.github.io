@@ -7,3 +7,6 @@ Objectives:
 4) (optional) Special funmctions (Bootcamp)
 5) Working pages for the app
 
+Hello! Welcome to Team MoneyMakers' github.io page!
+Click link below to access our working implementation of our project called Cha-Ching!
+https://freshnick71.github.io/group.github.io/
