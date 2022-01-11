@@ -104,7 +104,6 @@ margin-bottom: 10px;
   padding-right: 70px;
   margin-bottom: 10px;
 }
-
 #corner{
   width: 75px;
 }
@@ -113,10 +112,18 @@ margin-bottom: 10px;
   width: 400px;
 }
 
-
 .form-floating mb-3{
     text-align: center
   }
 .form-floating{
   text-align: center
+<<<<<<< HEAD
 }
+=======
+}
+
+#locate{
+margin-left: 380px;
+margin-top: 10px;
+}
+>>>>>>> a358f8b5aa5a004fe5fddef796d2fea1c864ce01
