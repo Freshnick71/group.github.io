@@ -107,7 +107,6 @@ margin-bottom: 10px;
 
 #corner{
   width: 75px;
-  margin-left: 400px;
 }
 #setting{
   margin-left: 500px;
@@ -120,10 +119,4 @@ margin-bottom: 10px;
   }
 .form-floating{
   text-align: center
-}
-#reward{
-  text-align: center;
-}
-#redeem{
-  text-align:right;
 }
